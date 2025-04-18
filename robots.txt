@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maiz-an.github.io/gh-pages-spidynal/sitemap.xml
